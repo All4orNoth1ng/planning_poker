@@ -1,3 +1,3 @@
 # planning_poker
 
-This is the files from Phase4
+This is the files from Phase6
